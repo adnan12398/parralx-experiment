@@ -1,2 +1,2 @@
 # parralx-experiment
-Kinda parralx effect with vanilla CSS
+Kinda parralx effect made with vanilla CSS
